@@ -1,0 +1,49 @@
+img{
+  margin: auto;
+  width: 250px;
+  border-radius: 150px
+  display: none; /* Не должно быть этого */
+  visibility: hidden; /* Не должно быть это
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .name > h1 {
+  display: inline-block;
+  background-color: yellow;
+  padding: 5px;
+}
+a.first-link {
+  /* Первая ссылка под заголовком */
+  margin-top: 10px; /* Отступ сверху */
+}
+
+a {
+  margin-right: 10px; /* Отступ между ссылками для других ссылок */
+}
+a.ur {
+  display: inline-block;
+  background-color: yellow;
+}
+.progress {
+  background-color: yellow;
+}
+.Ohio {
+  display: inline-block;
+  background-color: yellow;
+} */
